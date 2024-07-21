@@ -1,0 +1,8 @@
+﻿  QueueProject.cpp
+C:\Users\Hamee\source\repos\QueueProject\QueueProject\clsQueueLine.h(39,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hamee\source\repos\QueueProject\QueueProject\clsQueueLine.h(59,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 361 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  QueueProject.vcxproj -> C:\Users\Hamee\source\repos\QueueProject\x64\Release\QueueProject.exe

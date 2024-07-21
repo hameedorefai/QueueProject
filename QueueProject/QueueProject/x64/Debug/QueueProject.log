@@ -1,0 +1,4 @@
+﻿  QueueProject.cpp
+C:\Users\Hamee\source\repos\QueueProject\QueueProject\clsQueueLine.h(39,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Hamee\source\repos\QueueProject\QueueProject\clsQueueLine.h(59,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  QueueProject.vcxproj -> C:\Users\Hamee\source\repos\QueueProject\x64\Debug\QueueProject.exe
